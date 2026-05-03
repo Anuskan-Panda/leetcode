@@ -11,6 +11,6 @@ int main()
             count++;
         }
     }
-    cout<<"the no. of words are: "<<count+1;
+    cout<<"the no. of words are: "<<count+1;   //WORDS= SPACES+1
     return 0;
 }
